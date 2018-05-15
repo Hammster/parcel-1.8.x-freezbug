@@ -1,0 +1,14 @@
+{
+  "name": "test-parcel",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "node-sass": "^4.9.0",
+    "parcel": "^1.8.1",
+    "pug": "^2.0.3"
+  },
+  "scripts": {
+    "start": "parcel index.pug"
+  }
+}
